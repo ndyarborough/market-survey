@@ -1,0 +1,10 @@
+#Home {
+    background: #ebe9e7; /* Background Color of App */
+    height: 100vh; /* Stretch app over entire screen height available */
+}
+
+/* Dashboard */
+.jumbotron {
+    background: #ebe9e7 !important; /* Dashboard Color */
+    height: 86%;
+}

@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.page-div {
+  background: #ebe9e7; /* Background Color of App */
+  height: 100vh; /* Stretch app over entire screen height available */
+}

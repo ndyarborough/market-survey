@@ -1,0 +1,10 @@
+input.form-control {
+    background: transparent;
+    border: solid #2b2b2b 1px;
+    color: #2b2b2b;
+}
+
+input.form-control:focus {
+    background: transparent;
+    border: solid #218FFE 1px;
+}

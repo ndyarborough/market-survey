@@ -1,0 +1,15 @@
+.home-navbar {
+    /* height: 7vh; Height for Entire Navbar */
+    float: right;
+    margin: 2vh 4vw;
+}
+
+/* Container for Nav-Links*/
+/* nav.home-navbar ul {
+} */
+
+/* Nav-Links */
+.home-navbar ul li a {
+    color: #000; /*  NavLink Font-Color */
+    font-size: 1.3em;
+}
